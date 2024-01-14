@@ -535,4 +535,6 @@ basis https://privacy.basis.net/
 
 awin https://www.awin.com/de/datenschutzerklarung
 
+wps https://wpstaste.de/datenschutzerklaerung/
+
 
